@@ -1,5 +1,6 @@
 # 💫 About Me:
 DSA | Web Development<br>
+
 Aspiring Information Science Engineer passionate about leveraging technology to create impactful solutions. As a student at BMS Institute of Technology and Management, I have cultivated a strong foundation in programming, web development, and emerging technologies. I am proficient in Python and C++, with a growing expertise in Data Structures, Algorithms, and Object-Oriented Programming.
 
 Currently exploring fields like AI/ML and blockchain, I actively participate in hackathons and collaborative projects. Highlights include developing AI-powered residential layout solutions, contributing to a blockchain-based cargo verification system, and leading innovative initiatives as a core member of my college’s Cyber security club.
