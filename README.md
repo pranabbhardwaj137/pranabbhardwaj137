@@ -24,4 +24,6 @@ Driven by curiosity and a problem-solving mindset, I aim to create technology-dr
 ---
 [![](https://visitcount.itsvg.in/api?id=pranabbhardwaj137&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+![LeetCode Stats](https://leetcode.card.workers.dev/bhardwajpranab1312?theme=forest&font=source_code_pro&extension=null)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
