@@ -33,17 +33,13 @@ I build web products and then wire automation/AI into them — chatbots, content
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 DSA Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/bhardwajpranab1312?theme=forest&font=source_code_pro&extension=null)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bhardwajpranab1312?theme=radical&font=PT%20Serif%20Caption&ext=heatmap)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=pranabbhardwaj137&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-stats-extended.vercel.app/api?username=pranabbhardwaj137&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pranabbhardwaj137&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranabbhardwaj137&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pranabbhardwaj137&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=pranabbhardwaj137&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranab-bhardwaj13) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranxb) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhardwajpranab1312@gmail.com)
