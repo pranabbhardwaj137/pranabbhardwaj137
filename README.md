@@ -54,11 +54,12 @@
 
 | | |
 |---|---|
-| **🧘 Nirvaan** | Mental wellness platform · MERN + Qwen 2.5 · mood assessment engine, voice chatbot, live dashboard — 🥈 Runner-up, SJBIT Hackathon |
+| **🧘 [Nirvaan](https://github.com/pranabbhardwaj137/NirvaanAI)** | Mental wellness platform · MERN + Qwen 2.5 · mood assessment engine, voice chatbot, live dashboard — 🥈 Runner-up, SJBIT Hackathon |
 | **🏀 AI Basketball Coach** | Pose estimation + shot classification (MediaPipe, OpenCV) → LSTM action recognition → Gemini feedback → auto-generated WhatsApp reports |
-| **📄 Current Affairs Automation** | n8n + Gemini pipeline generating multi-page study PDFs from live RSS feeds, auto-distributed via WhatsApp, Drive & API |
-| **🔒 T&C Risk Analyser** | Chrome extension that flags risky clauses in Terms & Conditions before you agree to them |
-| **📊 Student Stress Predictor** | Logistic Regression / Decision Tree / Random Forest / Stacking Classifier on lifestyle data, leakage-free pipeline |
+| **🦠 [CODEXO — Disease Outbreak Prediction](https://github.com/pranabbhardwaj137/CODEXO_Al-for-Predicting-and-Mitigating-Disease-Outbreaks-in-Vulnerable-Populations)** | AI for predicting & mitigating disease outbreaks in vulnerable populations — first hackathon project |
+| **📄 [Current Affairs Automation](https://samarthyaias.com/current-affairs)** | n8n + Gemini pipeline generating multi-page study PDFs from live RSS feeds, auto-distributed via WhatsApp, Drive & API |
+| **🔒 [T&C Risk Analyser](https://github.com/pranabbhardwaj137/terms-and-conditions-Analyzer-extension)** | Chrome extension that flags risky clauses in Terms & Conditions before you agree to them |
+| **📊 [Student Stress Predictor](https://github.com/pranabbhardwaj137/Student-Stress-Preformance-Predictor-)** | Logistic Regression / Decision Tree / Random Forest / Stacking Classifier on lifestyle data, leakage-free pipeline |
 
 <br/>
 
