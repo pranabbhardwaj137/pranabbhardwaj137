@@ -29,6 +29,22 @@
 
 <br/>
 
+<details>
+<summary>💼 <b>Experience</b> (click to expand)</summary>
+<br/>
+
+**Frontend + AI/Automation Developer — Anuyog Software Solutions** *(Feb–May 2026)*
+- Built and revamped production frontends across 3 client engagements
+- Shipped a multilingual (EN/HI/GU) WhatsApp chatbot on Node.js, Express & Meta Cloud API
+- Designed the n8n + Gemini automation pipeline listed above
+- SEO work that pushed a target keyword from ~20th to 8th in rankings
+- Configured Zoho Mail DNS (SPF/DKIM/DMARC) for a client domain
+
+**Operations Associate — Access Denied (BMSIT&M Cybersecurity Club)**
+- Helped run a CTF-style competition with 55 teams across 3 elimination rounds
+
+</details>
+
 ### 💻 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -72,20 +88,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=pranabbhardwaj137&theme=dark&hide_border=false)<br/>
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=pranabbhardwaj137&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<details>
-<summary>💼 <b>Experience</b> (click to expand)</summary>
-<br/>
 
-**Frontend + AI/Automation Developer — Anuyog Software Solutions** *(Feb–May 2026)*
-- Built and revamped production frontends across 3 client engagements
-- Shipped a multilingual (EN/HI/GU) WhatsApp chatbot on Node.js, Express & Meta Cloud API
-- Designed the n8n + Gemini automation pipeline listed above
-- SEO work that pushed a target keyword from ~20th to 8th in rankings
-- Configured Zoho Mail DNS (SPF/DKIM/DMARC) for a client domain
-
-**Operations Associate — Access Denied (BMSIT&M Cybersecurity Club)**
-- Helped run a CTF-style competition with 55 teams across 3 elimination rounds
-
-</details>
 
 <br/>
